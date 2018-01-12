@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Carrom Board Score Keeper</string>
+    <string name="user_name_one">Raghu</string>
+    <string name="user_name_two">Keerthi</string>
+    <string name="user_name_three">Ravi</string>
+    <string name="user_name_four">Ramana</string>
+    <string name="queen">Queen</string>
+</resources>
